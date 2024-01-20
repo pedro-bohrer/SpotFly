@@ -1,0 +1,15 @@
+/Users/Pedro.B/Projects/SpotFly/SpotFly/bin/Debug/net7.0/SpotFly
+/Users/Pedro.B/Projects/SpotFly/SpotFly/bin/Debug/net7.0/SpotFly.deps.json
+/Users/Pedro.B/Projects/SpotFly/SpotFly/bin/Debug/net7.0/SpotFly.runtimeconfig.json
+/Users/Pedro.B/Projects/SpotFly/SpotFly/bin/Debug/net7.0/SpotFly.dll
+/Users/Pedro.B/Projects/SpotFly/SpotFly/bin/Debug/net7.0/SpotFly.pdb
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.csproj.AssemblyReference.cache
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.AssemblyInfoInputs.cache
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.AssemblyInfo.cs
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.csproj.CoreCompileInputs.cache
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.dll
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/refint/SpotFly.dll
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.pdb
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/SpotFly.genruntimeconfig.cache
+/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/Debug/net7.0/ref/SpotFly.dll

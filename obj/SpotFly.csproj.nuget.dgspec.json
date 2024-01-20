@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Pedro.B/Projects/SpotFly/SpotFly/SpotFly.csproj": {}
+  },
+  "projects": {
+    "/Users/Pedro.B/Projects/SpotFly/SpotFly/SpotFly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Pedro.B/Projects/SpotFly/SpotFly/SpotFly.csproj",
+        "projectName": "SpotFly",
+        "projectPath": "/Users/Pedro.B/Projects/SpotFly/SpotFly/SpotFly.csproj",
+        "packagesPath": "/Users/Pedro.B/.nuget/packages/",
+        "outputPath": "/Users/Pedro.B/Projects/SpotFly/SpotFly/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Pedro.B/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
